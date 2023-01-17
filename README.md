@@ -1,4 +1,4 @@
-# 2023-01-17-dsci310-git-jenna
+# 2023-01-17: DSCI 310 Git Demo
 Intro Git Demo
 Week 2 Lecture: January 17, 2023
 
@@ -7,3 +7,6 @@ Week 2 Lecture: January 17, 2023
 - `git add <FILE>`: add the <FILE>s to the staging area
 - `git commit`: create the commit (aka snapshot)
     - `git commit -m "MESSAGE"`: create the git message directly in the command line
+- `git push <where> <what>`: take local commits on `<what>`, and send it to `<where>`
+- `git pull <where> <what>`: take remote commits on `<what>`, and pull from `<where>`
+    - e.g., `git pull origin main`
