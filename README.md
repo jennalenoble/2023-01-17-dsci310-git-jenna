@@ -18,3 +18,5 @@ Week 2 Lecture: January 17, 2023
 - `git branch <name>`: create a branch named <branch> whereever you are (`HEAD`)
 - `git switch <name>`: got to that branch
     - `git checkout <name>`: older way to move to branch
+- `git switch -c <name>`: create a branch and move to it in 1 command
+    - `git checkout -b <name>:` same thing using `checkout`
