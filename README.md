@@ -13,7 +13,7 @@ Week 2 Lecture: January 17, 2023
     - e.g., `git pull origin main`
 - `git push origin main`: sends code from branch `main` local computer to the remote `origin`
 
-## branches
+## Branches
 
 - `git branch <name>`: create a branch named <branch> whereever you are (`HEAD`)
 - `git switch <name>`: got to that branch
