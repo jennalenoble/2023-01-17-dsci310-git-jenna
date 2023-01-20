@@ -1,5 +1,6 @@
 # 2023-01-17: DSCI 310 Git Demo
 Intro Git Demo
+
 Week 2 Lecture: January 17, 2023
 
 - `git clone <URL>`: takes what's on github and does a one time download to your computer
